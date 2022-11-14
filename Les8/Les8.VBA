@@ -235,11 +235,6 @@ Sub Oef8_5()
     MsgBox "Het gemiddelde is: " & Cstr(Average) & vbCrLf & "De array gesorteert van klein naar groot is:" & vbCrLf & strStringA
 End Sub
 
-Sub Oef8_6()
-
-    Form8_6.Show
-
-End Sub
-
+'Voor oef 6-12 zie onder Fromulieren 
 
     
