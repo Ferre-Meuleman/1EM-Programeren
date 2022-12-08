@@ -1,4 +1,4 @@
-﻿# Basisoefeningen les 11
+# Basisoefeningen les 11
 Bij deze oefenreeks is het belangrijk dat je bij de parameters van de subroutines steeds de vermelding byval of byref wordt bijgevoegd
 ## Oefening 1
 Schrijf een subroutine met 2 integer-getallen als parameter. Tijdens het uitvoeren van deze routine wordt de inhoud van de 2 parameters gewisseld.
