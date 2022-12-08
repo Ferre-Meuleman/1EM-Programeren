@@ -183,9 +183,9 @@ De functiewaarde (terugkeerwaarde) wordt in een variabele bewaard. In een volgen
 Pas de functie van oefening 8 aan zodat twee parameters meegegeven worden. Deze parameters zijn het minimum en het maximum van het ingegeven getal. De functie mag dus enkel getallen aanvaarden tussen het minimum en het maximum. Het maximum en het minimum worden vermeld in de vraagstelling.
 
 TIP: een voorbeeld voor de declaratie van deze functie is :
-
+```VBA
 Function intLeesIntMinMax(intMin As Integer, intMax As Integer) As Integer
-
+```
 Schrijf een testprogramma waar de functie met een for-lus opgeroepen wordt zodat de parameter voor het maximum de waarden 100, 200, 300 en 400 krijgt.
 
 De parameter voor het minimum krijgt respectievelijk de waarden -100, -200, -300 en -400.
