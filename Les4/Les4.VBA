@@ -129,10 +129,11 @@ Sub Oef4_10()
 End Sub
 
 Sub Oef4_11()
-    MsgBox "kies", vbYesNo, "kies"
+    Dim Response As Variant
+    Response = MsgBox("kies", vbYesNo, "kies")
     If Response = vbYes Then
-       MsgBox("yes")
-    ElseIf Response = vbNo Then 
-        MsgBox("No")
+       MsgBox ("yes")
+    ElseIf Response = vbNo Then
+        MsgBox ("No")
     End If
 End Sub
